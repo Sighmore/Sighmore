@@ -6,7 +6,7 @@ I’m Simon Kuia, an enthusiastic Android Software Engineer dedicated to craftin
 
 - **Kotlin**: My go-to language for Android development, I love its elegant syntax and functional programming capabilities, which make for efficient and maintainable code.
 
-- **Android Architecture Components**: I harness modern architectural patterns like MVVM and Room to build apps that are not only scalable but also maintainable, ensuring long-term success.
+- **Android Architecture Components**: I harness modern architectural patterns like MVVM and MVI to build apps that are not only scalable but also maintainable, ensuring long-term success.
 
 - **Reactive Programming**: Skilled in RxJava and RxKotlin, I thrive on leveraging reactive streams to simplify asynchronous tasks and manage complex data flows effortlessly.
 
@@ -16,11 +16,13 @@ I’m Simon Kuia, an enthusiastic Android Software Engineer dedicated to craftin
 
 ## 🚀 Projects
 
-### [Project 1 Name](https://github.com/your-username/project1)
-A powerful weather app that provides real-time forecasts, allows users to save favorite locations, and delivers a seamless experience using MVVM, Room, and RxJava.
+### [All-In-One Banking](https://github.com/Sighmore/Banking-App)
+A comprehensive banking app that offers real-time account management, and intuitive budgeting tools. Users can easily track expenses, save favourite transactions, and enjoy a smooth experience powered by Kotlin and Jetpack Compose. Stay in control of your finances with an advanced user-friendly interface.
 
-### [Project 2 Name](https://github.com/your-username/project2)
-A dynamic social media platform that lets users share photos, connect with friends, and engage with content effortlessly. Built with Firebase Authentication, Firestore, and Storage for a smooth user experience.
+
+### [My Portfolio](https://github.com/Sighmore/Portfolio-website)
+
+A dynamic portfolio website showcasing my projects and skills, built with React components, HTML, CSS, and JavaScript. This responsive site highlights my work and provides an engaging user experience, featuring smooth navigation and interactive elements. Explore my journey in web development and discover my latest projects!
 
 ### [Project 3 Name](https://github.com/your-username/project3)
 An innovative fitness tracking app that logs workouts, calculates calories, and offers personalized plans. It incorporates sensors and background services to deliver a holistic fitness journey.
@@ -35,6 +37,6 @@ I’m committed to enriching the Android development community by:
 
 ## 🌐 Let’s Connect!
 
-I’d love to connect! Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/Sighmore) or drop me an email at [simonkuriah7@gmail.com]. Whether you want to discuss new projects, collaborate on ideas, or chat about the latest trends in Android development, I’m all ears!
+I’d love to connect! Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/simon-kuria-4562301a6/) or drop me an email at [simonkuriah7@gmail.com]. Whether you want to discuss new projects, collaborate on ideas, or chat about the latest trends in Android development, I’m all ears!
 
 Thank you for visiting my profile. Let’s collaborate and make waves in the Android community!
