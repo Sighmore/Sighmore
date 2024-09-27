@@ -24,7 +24,7 @@ A comprehensive banking app that offers real-time account management, and intuit
 
 A dynamic portfolio website showcasing my projects and skills, built with React components, HTML, CSS, and JavaScript. This responsive site highlights my work and provides an engaging user experience, featuring smooth navigation and interactive elements. Explore my journey in web development and discover my latest projects!
 
-### [Project 3 Name](https://github.com/your-username/project3)
+### [Healthy Fit](https://github.com/your-username/project3)
 An innovative fitness tracking app that logs workouts, calculates calories, and offers personalized plans. It incorporates sensors and background services to deliver a holistic fitness journey.
 
 ## 🤝 Contributions
