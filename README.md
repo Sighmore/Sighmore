@@ -1,6 +1,6 @@
 # Android Developer (Kotlin) from Kenya
 
-👋 Hello, I'm [Simon Kuria]!
+👋 Hello, I'm Simon Kuria
 
 🔭 I’m currently working on a [Banking app](#) — an Android app to manage wallets and bank accounts.
 
@@ -18,7 +18,7 @@
 
 
 ## Connect with me:  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/simon-kuria-4562301a6/) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/@mosho_no) [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github)](https://portfolio-website-livid-six.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/simon-kuria-4562301a6/) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/@mosho_no) [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github)](https://portfolio-website-livid-six.vercel.app/) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:simonkuriah7@gmail.com)
 
 
 ---
@@ -44,6 +44,5 @@ A dynamic portfolio website showcasing my projects and skills, built with React 
 
 ## 🌐 Let’s Connect!
 
-I’d love to connect! Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/simon-kuria-4562301a6/) 
-Drop me an email at [simonkuriah7@gmail.com]. 
+I’d love to connect! Feel free to reach out.  
 Whether you want to discuss new projects, collaborate on ideas, or chat about the latest trends in Android development, I’m all ears!
