@@ -17,7 +17,7 @@
 ---
 
 ## Connect with me:
-[LinkedIn](https://www.linkedin.com/in/simon-kuria-4562301a6/) | [Twitter](https://x.com/@mosho_no) | [Personal Website](https://portfolio-website-livid-six.vercel.app/)
+[🔗](https://www.linkedin.com/in/simon-kuria-4562301a6/) | [Twitter](https://x.com/@mosho_no) | [💻](https://portfolio-website-livid-six.vercel.app/)
 
 ---
 
