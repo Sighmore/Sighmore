@@ -37,6 +37,8 @@ I’m committed to enriching the Android development community by:
 
 ## 🌐 Let’s Connect!
 
-I’d love to connect! Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/simon-kuria-4562301a6/) or drop me an email at [simonkuriah7@gmail.com]. Whether you want to discuss new projects, collaborate on ideas, or chat about the latest trends in Android development, I’m all ears!
+I’d love to connect! Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/simon-kuria-4562301a6/) 
+Drop me an email at [simonkuriah7@gmail.com]. 
+Whether you want to discuss new projects, collaborate on ideas, or chat about the latest trends in Android development, I’m all ears!
 
 Thank you for visiting my profile. Let’s collaborate and make waves in the Android community!
