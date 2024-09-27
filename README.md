@@ -8,7 +8,7 @@
 
 🤝 I’m looking for help with Flutter (Dart) and Swift to broaden my mobile development expertise.
 
-💬 Ask me about  Kotlin, Jetpack Compose, SQL, and Android Development! I'm here to help.
+💬 Ask me about Kotlin, Jetpack Compose, SQL, and Android Development! I'm here to help.
 
 📫 How to reach me: [simonkuriah7@gmail.com](mailto:simonkuriah7@gmail.com)
 
@@ -16,39 +16,42 @@
 
 ---
 
-## Connect with me:
-[🔗](https://www.linkedin.com/in/simon-kuria-4562301a6/) | [Twitter](https://x.com/@mosho_no) | [💻](https://portfolio-website-livid-six.vercel.app/)
+
+## Connect with me:  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/simon-kuria-4562301a6/) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/@mosho_no) [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github)](https://portfolio-website-livid-six.vercel.app/)
+
 
 ---
 
-## Languages and Tools:
 
-- **Programming Languages**: Java, Kotlin, SQL
-- **Frameworks & Libraries**: Android SDK, Jetpack Compose, Retrofit, Room
-- **Database Management**: SQLite, Firebase, 
-- **Version Control**: Git
-- **Development Tools**: Android Studio, Visual Studio Code
+## Languages and Tools:  
+
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=flat&logo=android) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 🚀 Projects
 
-### [All-In-One Banking](https://github.com/Sighmore/Banking-App)
-A comprehensive banking app that offers real-time account management, and intuitive budgeting tools. Users can easily track expenses, save favourite transactions, and enjoy a smooth experience powered by Kotlin and Jetpack Compose. Stay in control of your finances with an advanced user-friendly interface.
+### [All-In-One Banking](https://github.com/Sighmore/Banking-App)  
+A comprehensive banking app that offers real-time account management, intuitive budgeting tools, and a smooth experience powered by Kotlin and Jetpack Compose. Stay in control of your finances with a user-friendly interface.
 
+### [My Portfolio](https://github.com/Sighmore/Portfolio-website)  
+A dynamic portfolio website showcasing my projects and skills, built with React components, HTML, CSS, and JavaScript. Explore my journey in web development and discover my latest projects!
 
-### [My Portfolio](https://github.com/Sighmore/Portfolio-website)
+### [Healthy Fit](https://github.com/your-username/project3)  
+An innovative fitness tracking app that logs workouts, calculates calories, and offers personalized plans. It incorporates sensors and background services to deliver a holistic fitness journey.
 
-A dynamic portfolio website showcasing my projects and skills, built with React components, HTML, CSS, and JavaScript. This responsive site highlights my work and provides an engaging user experience, featuring smooth navigation and interactive elements. Explore my journey in web development and discover my latest projects!
+---
 
-### [Healthy Fit](https://github.com/your-username/project3)
-An innovative fitness tracking app that logs workouts, calculates calories and offers personalized plans. It incorporates sensors and background services to deliver a holistic fitness journey.
+## 🤝 Contributions 
+I’m committed to enriching the Android development community by:
 
-## 🤝 Contributions
+- Engaging in discussions on platforms like Stack Overflow to help fellow developers.
+- Sharing insights through blog posts and tutorials on my personal website.
+- Contributing to open-source projects that enhance the Android ecosystem.
 
-I'm dedicated to supporting the developer community by:
+## 🌐 Let’s Connect!
 
-- Participating in discussions on Stack Overflow.
-- Writing blog posts and tutorials about my learning journey.
-- Contributing to open-source projects.
-
+I’d love to connect! Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/simon-kuria-4562301a6/) 
+Drop me an email at [simonkuriah7@gmail.com]. 
+Whether you want to discuss new projects, collaborate on ideas, or chat about the latest trends in Android development, I’m all ears!
