@@ -30,6 +30,7 @@
 
 ---
 
+
 ## 🚀 Projects
 
 ### [All-In-One Banking](https://github.com/Sighmore/Banking-App)  
@@ -38,17 +39,8 @@ A comprehensive banking app that offers real-time account management, intuitive 
 ### [My Portfolio](https://github.com/Sighmore/Portfolio-website)  
 A dynamic portfolio website showcasing my projects and skills, built with React components, HTML, CSS, and JavaScript. Explore my journey in web development and discover my latest projects!
 
-### [Healthy Fit](https://github.com/your-username/project3)  
-An innovative fitness tracking app that logs workouts, calculates calories, and offers personalized plans. It incorporates sensors and background services to deliver a holistic fitness journey.
-
 ---
 
-## 🤝 Contributions 
-I’m committed to enriching the Android development community by:
-
-- Engaging in discussions on platforms like Stack Overflow to help fellow developers.
-- Sharing insights through blog posts and tutorials on my personal website.
-- Contributing to open-source projects that enhance the Android ecosystem.
 
 ## 🌐 Let’s Connect!
 
