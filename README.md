@@ -7,13 +7,12 @@ I’m Simon Kuia, an enthusiastic Android Software Engineer dedicated to craftin
 - **Kotlin**: My go-to language for Android development, I love its elegant syntax and functional programming capabilities, which make for efficient and maintainable code.
 
 - **Android Architecture Components**: I harness modern architectural patterns like MVVM and MVI to build apps that are not only scalable but also maintainable, ensuring long-term success.
-- Sure! Here are points for each technology in your desired format:
 
--**SQLite, Room**: Proficient in SQLite and Room, I efficiently manage local data storage and ensure seamless database interactions in mobile applications.
+- **SQLite, Room**: Proficient in SQLite and Room, I efficiently manage local data storage and ensure seamless database interactions in mobile applications.
 
--**Firebase, Retrofit, Ktor**: Experienced with Firebase, Retrofit, and Ktor, I excel at building robust network layers and integrating real-time data functionalities to enhance app performance.
+- **Firebase, Retrofit, Ktor**: Experienced with Firebase, Retrofit, and Ktor, I excel at building robust network layers and integrating real-time data functionalities to enhance app performance.
 
--**DevOps - CI/CD**: Knowledgeable in DevOps practices and CI/CD pipelines, I automate deployment processes to ensure smooth integration and delivery of high-quality software.
+- **DevOps - CI/CD**: Knowledgeable in DevOps practices and CI/CD pipelines, I automate deployment processes to ensure smooth integration and delivery of high-quality software.
 
 - **Reactive Programming**: Skilled in RxJava and RxKotlin, I thrive on leveraging reactive streams to simplify asynchronous tasks and manage complex data flows effortlessly.
 
