@@ -18,7 +18,7 @@
 
 
 ## Connect with me:  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/simon-kuria-4562301a6/) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/@mosho_no) [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github)](https://portfolio-website-livid-six.vercel.app/) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:simonkuriah7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/simon-kuria-4562301a6/) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/@mosho_no) [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github)](https://simonandroid.vercel.app/) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:simonkuriah7@gmail.com)
 
 
 ---
