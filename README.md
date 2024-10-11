@@ -2,9 +2,9 @@
 
 👋 Hello, I'm Simon Kuria
 
-🔭 I’m currently working on a [Banking app](#) — an Android app to manage wallets and bank accounts.
+🔭 I’m currently working on a Gemini-powered ChatBot—an Android app that harnesses the capabilities of Gemini AI.
 
-🌱 I’m currently learning more about Kotlin and the clean architecture of Android to enhance my app development skills.
+🌱 I’m currently learning more about Kotlin and Android's clean architecture to enhance my app development skills.
 
 🤝 I’m looking for help with Flutter (Dart) and Swift to broaden my mobile development expertise.
 
