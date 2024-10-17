@@ -2,13 +2,13 @@
 
 👋 Hello, I'm Simon Kuria
 
-🔭 I’m currently working on a Gemini-powered ChatBot—an Android app that harnesses the capabilities of Gemini AI.
+🔭 I'm currently developing Mkulima, an Android app helping tea farmers manage plucker payments and track tea output efficiently.
 
 🌱 I’m currently learning more about Kotlin and Android's clean architecture to enhance my app development skills.
 
-🤝 I’m looking for help with Flutter (Dart) and Swift to broaden my mobile development expertise.
+🤝 I’m seeking help with Flutter (Dart) and Swift to broaden my mobile development expertise.
 
-💬 Ask me about Kotlin, Jetpack Compose, SQL, and Android Development! I'm here to help.
+💬 Ask me about Kotlin, Android Jetpack: Room, Navigation, Viewmodel, Livedata, Compose, SQL, and Android SDK!
 
 📫 How to reach me: [simonkuriah7@gmail.com](mailto:simonkuriah7@gmail.com)
 
