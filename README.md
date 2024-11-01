@@ -1,16 +1,16 @@
 # Android Developer (Kotlin)
 
-👋 Hello, I'm Simon Kuria
+👋 Hi, I'm Simon Kuria!
 
-🔭 I'm currently developing Mkulima, an Android app helping tea farmers manage plucker payments and track tea output efficiently.
+🔭 I’m currently working on a **Lipa na Mpesa** merchant-initiated app, which streamlines payment processing for businesses by integrating with Safaricom’s Daraja API.
 
-🌱 I’m currently learning more about Kotlin and Android's clean architecture to enhance my app development skills.
+🌱 My focus includes deepening my understanding of **Daraja APIs**, **Firebase callbacks**, and **Firebase Crashlytics with Realtime Database** to enhance app stability and provide a seamless user experience.
 
-💬 Ask me about Kotlin, Android Jetpack: Room, Navigation, Viewmodel, Livedata, Compose, SQL, and Android SDK!
+💬 Reach out if you’d like to discuss **Kotlin**, **Android Jetpack** (Room, Navigation, ViewModel, LiveData, Compose), **SQL**, or the **Android SDK**!
 
-📫 How to reach me: [simonkuriah7@gmail.com](mailto:simonkuriah7@gmail.com)
+📫 Contact me at: [simonkuriah7@gmail.com](mailto:simonkuriah7@gmail.com)
 
-⚡ Fun fact: I’m responsible and strive for excellence in my projects.
+⚡ Fun fact: I’m driven to build dependable, high-quality projects and keep advancing my skills with every project!
 
 ---
 
@@ -24,7 +24,7 @@
 
 ## Languages and Tools:  
 
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=flat&logo=android) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) ![Room Database](https://img.shields.io/badge/-Room%20Database-007ACC?style=flat&logo=android&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=flat&logo=android) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Retrofit](https://img.shields.io/badge/-Retrofit-2D2D2D?style=flat&logo=retrofit&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) 
 
 ---
 
