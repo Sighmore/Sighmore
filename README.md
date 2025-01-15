@@ -1,13 +1,10 @@
-Here’s the updated version based on your request:  
-
----
 
 # Android Developer (Kotlin)  
 
 👋 Hi, I'm Simon Kuria!  
 
 🔭 I ship custom software solutions, specializing in Android apps.  
-I’m currently working on medical applications leveraging **Keycloak Authentication**, **APIs**, **Room**, **Realtime Data**, and **Google Maps**.  
+    I’m currently working on medical applications leveraging **Keycloak Authentication**, **APIs**, **Room**, **Realtime Data**, and **Google Maps**.  
 
 📫 Contact me at: [simonkuriah7@gmail.com](mailto:simonkuriah7@gmail.com)  
 
