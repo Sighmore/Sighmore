@@ -1,7 +1,7 @@
 
 # 👨‍💻 Android, Desktop, Backend Developer (Kotlin | Java | JavaFx)
 
-Hi there! I'm **Simon Kuria** 👋
+I'm **Simon Kuria** 👋
 
 🔭 I build custom software solutions across **Android**, **Desktop**, and **Backend** platforms.  
 I specialize in:
@@ -12,8 +12,6 @@ I specialize in:
 
 📫 Reach me at: [simonkuriah7@gmail.com](mailto:simonkuriah7@gmail.com)
 
-⚡ Fun fact:  
-I'm passionate about crafting impactful software that solves real-world problems — from mobile devices to desktops to backend systems!
 
 
 ---  
@@ -23,7 +21,18 @@ I'm passionate about crafting impactful software that solves real-world problems
 
 ---  
 
-## Languages and Tools:  
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/-Compose-4285F4?style=flat&logo=android) ![XML](https://img.shields.io/badge/-XML-E34F26?style=flat&logo=html5&logoColor=white) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![AI-Powered IDEs](https://img.shields.io/badge/-AI%20Powered%20IDEs-black?style=flat&logo=github-copilot&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Disk & Room](https://img.shields.io/badge/-Disk%20%26%20Room-007ACC?style=flat&logo=android&logoColor=white) ![Keycloak](https://img.shields.io/badge/-Keycloak-0078D7?style=flat&logo=keycloak&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
+## 🛠️ Languages and Tools:
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) 
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) 
+![Jetpack Compose](https://img.shields.io/badge/-Compose-4285F4?style=flat&logo=android) 
+![JavaFX](https://img.shields.io/badge/-JavaFX-007396?style=flat&logo=openjdk&logoColor=white) 
+![FXML](https://img.shields.io/badge/-FXML-ff8c00?style=flat&logo=xml&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Keycloak](https://img.shields.io/badge/-Keycloak-0078D7?style=flat&logo=keycloak&logoColor=white)
 
----  
+---
