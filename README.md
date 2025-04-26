@@ -1,14 +1,26 @@
 
-# Android Developer (Kotlin)  
+# 👨‍💻 Android, Desktop, and Backend Developer (Kotlin | Java | JavaFx)
 
-👋 Hi, I'm Simon Kuria!  
+Hi there! I'm **Simon Kuria** 👋
 
-🔭 I ship custom software solutions, specializing in Android apps.  
-    I’m currently working on medical applications leveraging **Keycloak Authentication**, **APIs**, **Room**, **Realtime Data**, and **Google Maps**.  
+🔭 I build custom software solutions across **Android**, **Desktop**, and **Backend** platforms.  
+I specialize in:
+- 📱 Android applications (Kotlin, Jetpack)
+- 🖥️ Desktop applications (JavaFX)
+- 🛠️ Backend services (Kotlin, Java)
 
-📫 Contact me at: [simonkuriah7@gmail.com](mailto:simonkuriah7@gmail.com)  
+🚀 Currently, I’m working on **medical applications** utilizing:
+- Backend API services
+- Android application
+- Database integration: Postgress, SQLite(Room)
+- Keycloak Authentication
+- Google Maps Integration
 
-⚡ Fun fact: I’m driven to craft impactful software solutions that solve real-world problems.  
+📫 Reach me at: [simonkuriah7@gmail.com](mailto:simonkuriah7@gmail.com)
+
+⚡ Fun fact:  
+I'm passionate about crafting impactful software that solves real-world problems — from mobile devices to desktops to backend systems!
+
 
 ---  
 
