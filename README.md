@@ -1,5 +1,5 @@
 
-# 👨‍💻 Android, Desktop, Backend Developer (Kotlin | Java | JavaFx)
+# 👨‍💻 AI Automation, Android, Java Backend , Solving real-world problems
 
 I'm **Simon Kuria** 👋
 
