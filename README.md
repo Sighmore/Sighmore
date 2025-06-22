@@ -1,14 +1,14 @@
-# 👨‍💻 AI Automation · Android · Java Backend · Real-World Problem Solving
+# 👨‍💻 Java/Kotlin · Backend Microservices · Android Development · Real-World Problem Solving
 
 I'm **Simon Kuria** 👋
 
-🔭 I craft custom software solutions across **Android**, **Desktop**, **Backend**, and **AI automation** platforms.
+🔭 I build custom software solutions focused on **Backend Microservices** and **Android Applications** using modern Java & Kotlin technologies.
 
 ## 💼 I specialize in:
-- 🤖 **AI automation** workflows (ChatGPT, Make.com, Zapier)
-- 📱 **Android development** (Kotlin, Jetpack Compose)
-- 🖥️ **Desktop applications** (JavaFX, FXML)
-- 🛠️ **Backend services** (Kotlin, Java, PostgreSQL)
+- ☁️ **Backend Microservices** (Java, Kotlin, Spring Boot, Kafka, PostgreSQL, Docker)
+- 📱 **Android Development** (Kotlin, Jetpack Compose, MVVM)
+- 🔄 **System Integration & Automation** (APIs, messaging, event-driven systems)
+
 
 📫 Reach me: [simonkuriah7@gmail.com](mailto:simonkuriah7@gmail.com)
 
